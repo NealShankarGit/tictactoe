@@ -1,4 +1,4 @@
-# tictactoe
+# TicTacToe Machine Learning Project
 Introduction
 In this project, I implemented and evaluated machine learning models to classify Tic Tac Toe
 game outcomes and predict optimal moves. Utilizing datasets for final board states, single
