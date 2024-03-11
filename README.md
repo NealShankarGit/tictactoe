@@ -1,18 +1,18 @@
 # TicTacToe Machine Learning Project
-Introduction
+Introduction<br>
 In this project, I implemented and evaluated machine learning models to classify Tic Tac Toe
 game outcomes and predict optimal moves. Utilizing datasets for final board states, single
 moves, and intermediate states, I applied classifiers and regressors to understand their predictive
 capabilities in this context.
 
-Implementation Details
+Implementation Details<br>
 I used KNeighborsClassifier, SVC, and MLPClassifier for classification tasks, targeting final
 board states and single moves. For regression on intermediate board states, I employed
 KNeighborsRegressor, a custom LinearRegressionNE model based on normal equations, and
 MLPRegressor. Data normalization was crucial, achieved through StandardScaler, to
 preprocess the features for optimal model performance.
 
-Evaluation Results
+Evaluation Results<br>
 Classifiers on tictac_final:
 • KNN Classifier excelled with an accuracy of 99.58%, indicating nearly perfect
 classification.
