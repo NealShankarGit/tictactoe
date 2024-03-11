@@ -29,13 +29,8 @@ Regressors on tictac_multi:
 effectively captured the dataset's complexity.
 The MLP models consistently displayed strong performance across different tasks and datasets,
 likely due to their ability to model nonlinear relationships effectively.
-Running the Code
+
+Running the Code<br>
 To execute the project, one should run the Jupyter Notebook cells sequentially, ensuring all
 dependencies are installed. The Tic Tac Toe game can be played by running the specific section
 of the notebook designed for game simulation against the trained MLP model.
-Challenges and Insights
-Implementing the Linear Regression using normal equations was particularly challenging but
-rewarding, as it deepened my understanding of the underlying mathematical principles.
-Adjusting models to handle different datasets highlighted the importance of feature scaling and
-parameter tuning. The project underscored the robustness of MLP models in dealing with
-complex patterns and noise in data.
