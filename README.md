@@ -15,18 +15,18 @@ preprocess the features for optimal model performance.
 Evaluation Results<br>
 Classifiers on tictac_final:
 • KNN Classifier excelled with an accuracy of 99.58%, indicating nearly perfect
-classification.
-• SVC also performed well, achieving an accuracy of 98.33%.
+classification.<br>
+• SVC also performed well, achieving an accuracy of 98.33%.<br>
 • MLP Classifier showed a strong accuracy of 98.43%, comparable to SVC.
 Classifiers on tictac_single:
-• KNN Classifier's performance dipped slightly with an accuracy of 91.86%.
-• SVC's accuracy decreased significantly to 76.13%.
-• MLP Classifier remained robust with an accuracy of 97.18%.
+• KNN Classifier's performance dipped slightly with an accuracy of 91.86%.<br>
+• SVC's accuracy decreased significantly to 76.13%.<br>
+• MLP Classifier remained robust with an accuracy of 97.18%.<br>
 Regressors on tictac_multi:
-• KNN Regressor had an accuracy of 85.76%, a solid performance for a regression task.
-• Linear Regression showed lower performance with an accuracy of 76.32%.
+• KNN Regressor had an accuracy of 85.76%, a solid performance for a regression task.<br>
+• Linear Regression showed lower performance with an accuracy of 76.32%.<br>
 • MLP Regressor stood out with an impressive accuracy of 97.44%, suggesting it
-effectively captured the dataset's complexity.
+effectively captured the dataset's complexity.<br>
 The MLP models consistently displayed strong performance across different tasks and datasets,
 likely due to their ability to model nonlinear relationships effectively.
 
